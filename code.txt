@@ -1,3 +1,6 @@
 Private Function pfImportSegmCODEexXPR(ByRef rlHeadINr As Long)
 
 blblblbl
+
+Microsoft SQL Server, Fehler: 15405
+Microsoft SQL Server, Fehler: 15405
